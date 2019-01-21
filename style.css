@@ -8,6 +8,15 @@
     background: transparent;
 }
 
+#logotop{
+    width: 4vw;
+    height: auto;
+    position: absolute;
+    margin-top: 0.5vw;
+    left: 0.7vw;
+    /*transform: translate(-50%, -50%);*/
+}
+
 #bigImage{
     width: 100vw;
     height: auto;
@@ -83,7 +92,7 @@ a{
     width: 8vw;
 }
 a:hover {
-    background-color: rgba(13, 64, 158, 0.664);
+    background-color: #0D3B66;
 }
 
 h3 {
