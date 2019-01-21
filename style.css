@@ -55,13 +55,13 @@
     top: 0px;
     z-index: 999;
     background-color: #1B998B;
+    background-image: linear-gradient(to right, #1B998B, #4ECDC4,  #1B998B);
     width: 100vw;
     height: 5vw;
     border-bottom: 4px solid #0D3B66;
 }
 
 a{
-    background-color: #1B998B;
     color: #4ECDC4;
     text-decoration: none;
     font-family: 'Lucida Sans Unicode', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', Geneva, Verdana, sans-serif;
@@ -72,7 +72,7 @@ a{
 #aboutLink{
     position: absolute;
     margin-top: 2.5%;
-    left: 70%;
+    left: 75%;
     transform: translate(-50%, -50%);
     text-align: center;
     height: auto;
@@ -84,7 +84,7 @@ a{
 #ideasLink{
     position: absolute;
     margin-top: 2.5%;
-    left: 30%;
+    left: 25%;
     transform: translate(-50%, -50%);
     text-align: center;
     height: auto;
