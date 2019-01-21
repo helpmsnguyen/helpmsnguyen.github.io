@@ -48,6 +48,7 @@
     height: auto;
     font-size: 3vw;
     color: #0D3B66;
+    text-decoration: underline solid;
 }
 
 #topbar {
@@ -128,10 +129,10 @@ li {
 
 }
 #simonThrowsImage {
-    width: 40vw;
+    width: 38vw;
     height: auto;
     margin-right: 5vw;
-    margin-left: 4.5vw;
+    margin-left: 5vw;
 }
 
 #ideasDiv {
