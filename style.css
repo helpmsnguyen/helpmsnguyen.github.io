@@ -18,7 +18,7 @@
 }
 
 #bigImage{
-    width: 100vw;
+    width: 100%;
     height: auto;
     display: block;
     margin-left: auto;
@@ -29,7 +29,7 @@
 }
 
 #classroomImg{
-    width: 100vw;
+    width: 100%;
     height: auto;
     display: block;
     margin-left: auto;
@@ -57,16 +57,15 @@
     z-index: 999;
     background-color: #1B998B;
     background-image: linear-gradient(to right, #1B998B, #4ECDC4,  #1B998B);
-    width: 100vw;
+    width: 100%;
     height: 5vw;
     border-bottom: 4px solid #0D3B66;
 }
 
 a{
-    color: #4ECDC4;
+    color: #cdde16;
     text-decoration: none;
     font-family: 'Lucida Sans Unicode', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', Geneva, Verdana, sans-serif;
-
 }
 
 
@@ -161,9 +160,8 @@ li {
 }
 
 .bottombar{
-    color: #4ECDC4;
+    color: #cdde16;
     font-size: 1vw;
-
 }
 .bottombara{
     margin-top: 1.5vw;
@@ -179,7 +177,7 @@ li {
     background-image: linear-gradient(to right, #1B998B, #4ECDC4,  #1B998B);
     height: 3vw;
     clear: both;
-    width: 100vw;
+    width: 100%;
     border-top: 4px solid #0D3B66;
     position: absolute;
     bottom: 0px;
